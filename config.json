@@ -1,9 +1,9 @@
 {
 	"listenAddress"	:	"0.0.0.0",
 	"listenPort"	:	"53",
-	"dnsAddress"	:	"208.67.220.220",
-	"dnsPort"		:	"5353",
-	"proxyEnabled"	:	false,
+	"dnsAddress"	:	"8.8.8.8",
+	"dnsPort"	:	"53",
+	"proxyEnabled"	:	true,
 	"proxyAddress"	:	"127.0.0.1",
-	"proxyPort"		:	"1080"
+	"proxyPort"	:	"1080"
 }
